@@ -1,4 +1,4 @@
-package test.org.rodias.jl.testing;
+package rodias.jl.testing;
 
 /**
  * Optimized solution for checking if a number is prime and an anagram.

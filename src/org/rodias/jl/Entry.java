@@ -4,7 +4,7 @@ import java.time.LocalTime;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.function.Supplier;
 
-import test.org.rodias.jl.PrimesPalindromChecker;
+import rodias.jl.testing.PrimesPalindromChecker;
 
 public class Entry {
 

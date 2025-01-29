@@ -1,3 +1,3 @@
 module PrimesPalindromChecker {
-    exports org.rodias.jl.testing;
+    exports rodias.jl.testing;
 }
