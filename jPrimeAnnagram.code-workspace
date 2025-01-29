@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jdk.jdkhome": "~/jdk/OpenJDK-23/bin"
+	}
+}
