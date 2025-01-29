@@ -1,9 +1,10 @@
+package org.rodias.jl;
 import java.time.Duration;
 import java.time.LocalTime;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.function.Supplier;
 
-import test.PrimesPalindromChecker;
+import test.org.rodias.jl.PrimesPalindromChecker;
 
 public class Entry {
 

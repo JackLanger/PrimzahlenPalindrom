@@ -1,8 +1,4 @@
-package test;
-
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
+package test.org.rodias.jl.testing;
 
 /**
  * Optimized solution for checking if a number is prime and an anagram.
