@@ -1,3 +1,3 @@
 #!/bin/bash
-jar -cf out PrimePalindrom.jar -p src/libs
-java src/Entry.java src/Entry.java -cp src/libs
+jar -cf  libs/PrimePalindrom.jar test
+java  -cp libs/* src/org/rodias/jl/Entry.java
